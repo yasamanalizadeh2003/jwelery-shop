@@ -1,0 +1,273 @@
+
+[
+  {
+    "id": 1,
+    "name": "گردنبند زنجیری کلاسیک",
+    "price": 2850000,
+    "category": "گردنبند",
+    "image": "/src/assets/images/ChatGPT Image Aug 9, 2026, 11_56_19 PM.png",
+    "stock": 12,
+    "count":0
+  },
+  {
+    "id": 2,
+    "name": "گردنبند پلاک مروارید",
+    "price": 3450000,
+    "category": "گردنبند",
+    "image": "/src/assets/images/necklace-02.jpg.png",
+    "stock": 8,
+    "count":0
+  },
+  {
+    "id": 3,
+    "name": "گردنبند طلایی مینیمال",
+    "price": 4200000,
+    "category": "گردنبند",
+    "image": "/src/assets/images/necklace-03.jpg.png",
+    "stock": 15,
+    "count":0
+  },
+  {
+    "id": 4,
+    "name": "گردنبند قلب شامپاینی",
+    "price": 3750000,
+    "category": "گردنبند",
+    "image": "/src/assets/images/necklace-04.jpg.png",
+    "stock": 6,
+    "count":0
+  },
+  {
+    "id": 5,
+    "name": "گردنبند دو لایه ظریف",
+    "price": 4950000,
+    "category": "گردنبند",
+    "image": "/src/assets/images/necklace-05.jpg.png",
+    "stock": 10,
+    "count":0
+  },
+  {
+    "id": 6,
+    "name": "انگشتر مینیمال طلایی",
+    "price": 1950000,
+    "category": "انگشتر",
+    "image": "/src/assets/images/ring-01.jpg.png",
+    "stock": 20,
+    "count":0
+  },
+  {
+    "id": 7,
+    "name": "انگشتر نگین دار کلاسیک",
+    "price": 3850000,
+    "category": "انگشتر",
+    "image": "/src/assets/images/ring-02.jpg.png",
+    "stock": 7,
+    "count":0
+  },
+  {
+    "id": 8,
+    "name": "انگشتر حلقه شامپاینی",
+    "price": 2650000,
+    "category": "انگشتر",
+    "image": "src/assets/images/ring3.png",
+    "stock": 13,
+    "count":0
+  },
+  {
+    "id": 9,
+    "name": "انگشتر مروارید ظریف",
+    "price": 3200000,
+    "category": "انگشتر",
+    "image": "/src/assets/images/ring4.png",
+    "stock": 9,
+    "count":0
+  },
+  {
+    "id": 10,
+    "name": "انگشتر نگین سبز",
+    "price": 4500000,
+    "category": "انگشتر",
+    "image": "/src/assets/images/ring5.png",
+    "stock": 5,
+    "count":0
+  },
+  {
+    "id": 11,
+    "name": "دستبند زنجیری طلایی",
+    "price": 3150000,
+    "category": "دستبند",
+    "image": "src/assets/images/Bracelet1.png",
+    "stock": 14,
+    "count":0
+  },
+  {
+    "id": 12,
+    "name": "دستبند مرواریدی",
+    "price": 2950000,
+    "category": "دستبند",
+    "image": "src/assets/images/Bracelet2.png",
+    "stock": 11,
+    "count":0
+  },
+  {
+    "id": 13,
+    "name": "دستبند ظریف شامپاینی",
+    "price": 2750000,
+    "category": "دستبند",
+    "image": "src/assets/images/Bracelet3.png",
+    "stock": 18,
+    "count":0
+  },
+  {
+    "id": 14,
+    "name": "دستبند زنجیری لوکس",
+    "price": 5200000,
+    "category": "دستبند",
+    "image": "src/assets/images/Bracelet4.png",
+    "stock": 4,
+    "count":0
+  },
+  {
+    "id": 15,
+    "name": "دستبند نگین دار",
+    "price": 4300000,
+    "category": "دستبند",
+    "image": "src/assets/images/Bracelet5.png",
+    "stock": 8,
+    "count":0
+  },
+  {
+    "id": 16,
+    "name": "گوشواره حلقه ای کلاسیک",
+    "price": 2250000,
+    "category": "گوشواره",
+    "image": "src/assets/images/Earrings1.png",
+    "stock": 16,
+    "count":0
+  },
+  {
+    "id": 17,
+    "name": "گوشواره مرواریدی",
+    "price": 3350000,
+    "category": "گوشواره",
+    "image": "src/assets/images/Earrings2.png",
+    "stock": 10,
+    "count":0
+  },
+  {
+    "id": 18,
+    "name": "گوشواره آویز طلایی",
+    "price": 3650000,
+    "category": "گوشواره",
+    "image": "src/assets/images/Earrings3.png",
+    "stock": 12,
+    "count":0
+  },
+  {
+    "id": 19,
+    "name": "گوشواره گل شامپاینی",
+    "price": 4100000,
+    "category": "گوشواره",
+    "image": "src/assets/images/Earrings4.png",
+    "stock": 6,
+    "count":0
+  },
+  {
+    "id": 20,
+    "name": "گوشواره نگین دار لوکس",
+    "price": 5800000,
+    "category": "گوشواره",
+    "image": "src/assets/images/Earrings5.png",
+    "stock": 3,
+    "count":0
+  },
+  {
+    "id": 21,
+    "name": "ست گردنبند و گوشواره",
+    "price": 7500000,
+    "category": "ست",
+    "image": "src/assets/images/set1.png",
+    "stock": 5,
+    "count":0
+  },
+  {
+    "id": 22,
+    "name": "ست مرواریدی کلاسیک",
+    "price": 8250000,
+    "category": "ست",
+    "image": "src/assets/images/set2.png",
+    "stock": 4,
+    "count":0
+  },
+  {
+    "id": 23,
+    "name": "ست طلایی مینیمال",
+    "price": 6900000,
+    "category": "ست",
+    "image": "src/assets/images/set3.png",
+    "stock": 7,
+    "count":0
+  },
+  {
+    "id": 24,
+    "name": "ست لوکس شامپاینی",
+    "price": 9800000,
+    "category": "ست",
+    "image": "src/assets/images/set4.png",
+    "stock": 3,
+    "count":0
+  },
+  {
+    "id": 25,
+    "name": "ست زنجیری ظریف",
+    "price": 6250000,
+    "category": "ست",
+    "image": "src/assets/images/set5.png",
+    "stock": 9,
+    "count":0
+  },
+  {
+    "id": 26,
+    "name": "پابند زنجیری ظریف",
+    "price": 1850000,
+    "category": "پابند",
+    "image": "src/assets/images/pa1.png",
+    "stock": 13,
+    "count":0
+  },
+  {
+    "id": 27,
+    "name": "پابند مرواریدی",
+    "price": 2450000,
+    "category": "پابند",
+    "image": "src/assets/images/pa2.png",
+    "stock": 8,
+    "count":0
+  },
+  {
+    "id": 28,
+    "name": "پابند طلایی کلاسیک",
+    "price": 2750000,
+    "category": "پابند",
+    "image": "src/assets/images/pa3.png",
+    "stock": 10,
+    "count":0
+  },
+  {
+    "id": 29,
+    "name": "پیرسینگ نگین دار",
+    "price": 1250000,
+    "category": "پیرسینگ",
+    "image": "src/assets/images/pier1.png",
+    "stock": 22,
+    "count":0
+  },
+  {
+    "id": 30,
+    "name": "پیرسینگ حلقه ای طلایی",
+    "price": 1450000,
+    "category": "پیرسینگ",
+    "image": "src/assets/images/pier2.png",
+    "stock": 17,
+    "count":0
+  }
+]
